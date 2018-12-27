@@ -1,0 +1,42 @@
+/* .foot {
+    background-color: #ccc;
+}
+
+.foot label {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10;
+    font-size: 13;
+} */
+/* .konfigurime{
+    text-align: center;
+    vertical-align: middle;
+    padding: 10;
+    font-size: 13; 
+} */
+/* @keyframes example{
+    from {background-color: red;}
+    to { background-color: green;}
+}
+.view {
+    animation-name: example;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 5;
+} */
+
+.foot {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10 5 10 5;
+    font-size: 13;
+}
+
+
+.test{
+    border-style: solid;
+    border-color: red;
+}
+.color--red {
+    color: #EE6E73;
+}

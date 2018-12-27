@@ -1,0 +1,17 @@
+
+.foot {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10;
+    font-size: 13;
+    background-color: #ccc;
+}
+.test{
+    border-style: solid;
+    border-color: red;
+}
+.btn-success {
+	background: #047a49;
+    color: #ffffff;
+    padding: 10;
+}
