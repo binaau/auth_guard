@@ -16,13 +16,7 @@
 				<action android:name="android.intent.action.VIEW" />
 				<category android:name="android.intent.category.DEFAULT" />
 				<category android:name="android.intent.category.BROWSABLE" />
-				<!-- <data android:scheme="https" android:host="www.aberglass.com" android:path="/lab"></data> -->
 				 <data android:scheme="https" android:host="stackoverflow.com" android:pathPattern="/questions/.*"></data> 
-								<!-- <data android:scheme="http" android:host="secsystem.domainpertest.tk" android:pathPrefix="/v1/resetPasswordRequest"></data>  -->
-
-								<!-- <data android:scheme="https" android:host="stackoverflow.com" android:path="/questions"></data> -->
-
-
 			</intent-filter>
 		</activity>
 		<activity android:name="com.tns.ErrorReportActivity" />
